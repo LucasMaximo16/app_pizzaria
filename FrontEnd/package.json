@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eslint": "^8.33.0",
+    "react-icons": "^4.7.1"
+  }
+}
